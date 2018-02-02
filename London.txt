@@ -1,35 +1,21 @@
 <html>
-<head><style>
+<head>
+<style>
 <title>LONDON</title>
 
 
-
-div {
-font-size: 2em;
-Font-family" "helvetica"
-}
-p {
-font-size: 2em; 
-width: 500px;
-color:white;
-background-color:navy;
-
-}
+	
 body {background-color: red;}
+
+
 </style>
  </head> 
  <body>
-
-
-<h1>LONDON</h1>
-<div="content">
+<h5> LONDON</h5>
+<div id="Content">
 <p>London is the capital city of England. It is the most populous city in the United Kingdom, with a metropolitan area of over 13 million inhabitants.</p>
-
-</div>
-<div="content">
 <p>"London is a leading global city in the arts, commerce, education, entertainment, fashion, finance, healthcare, media, professional services, research and development, tourism and transportation. It is the world's largest financial centre and has the fifth-largest metropolitan area GDP in the world. London is often regarded as world cultural capital." </p>
-</div>
-<div>
+
 <img src="london.jpg" />
 </div>
 
@@ -41,6 +27,6 @@ body {background-color: red;}
 <li>Mayfair</li>
 <li>Richmond upon Thames</li>
 </ul>
+
 </body>
 </html>
-
