@@ -1,24 +1,16 @@
-
-
-
 <html>
-<head><style>
+<head>
+<style>
 <title>Graphic Design</title>
 
-
-
-div {
-font-size: 2em;
-Font-family" "helvetica"
-}
 p {
 font-size: 2em; 
 width: 500px;
 color:navy;
-background-color:pink ;
+background-color:red ;
 
 }
-body {background-color: grey;}
+body {background-color: navy;}
 </style>
  </head> 
  <body>
@@ -33,8 +25,5 @@ body {background-color: grey;}
 </body>
 </html>
 
-</body>
 
-</body>
-</html>
 
