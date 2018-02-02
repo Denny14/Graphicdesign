@@ -1,7 +1,9 @@
 <!DOCTYPE html>
 <html>
 <style>
-body {background-color: red;}
+body {background-color: navy;}
+h5 {color: red;}
+backround-color: navy;
 
 
 </style>
@@ -10,8 +12,7 @@ body {background-color: red;}
 <div id="Content">
 <p>London is the capital city of England. It is the most populous city in the United Kingdom, with a metropolitan area of over 13 million inhabitants.</p>
 <p>"London is a leading global city in the arts, commerce, education, entertainment, fashion, finance, healthcare, media, professional services, research and development, tourism and transportation. It is the world's largest financial centre and has the fifth-largest metropolitan area GDP in the world. London is often regarded as world cultural capital." </p>
-color: navy;
-backround-color: red;
+
 <img src="london.jpg" />
 </div>
 
