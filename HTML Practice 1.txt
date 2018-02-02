@@ -1,12 +1,11 @@
 <html>
 <head>
 <style>
-<title>Graphic Design</title>
+<title>LONDON</title>
 
 p {
 font-size: 2em; 
 width: 500px;
-color:navy;
 background-color:red ;
 
 }
