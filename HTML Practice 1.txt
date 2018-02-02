@@ -1,15 +1,27 @@
-<!DOCTYPE html>
+
+
+
 <html>
-<head>
-<style>
-body {background-color: navy;}
-h5 {color: red;}
-backround-color: navy;
+<head><style>
+<title>Graphic Design</title>
 
 
+
+div {
+font-size: 2em;
+Font-family" "helvetica"
+}
+p {
+font-size: 2em; 
+width: 500px;
+color:navy;
+background-color:pink ;
+
+}
+body {background-color: grey;}
 </style>
-</head>
-<body>
+ </head> 
+ <body>
 <h5> LONDON </h5>
 <div id="Content">
 <p>London is the capital city of England. It is the most populous city in the United Kingdom, with a metropolitan area of over 13 million inhabitants.</p>
@@ -18,7 +30,11 @@ backround-color: navy;
 <img src="london.jpg" />
 </div>
 
-}
+</body>
+</html>
+
+</body>
 
 </body>
 </html>
+
