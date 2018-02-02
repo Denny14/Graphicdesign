@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html>
+<head>
 <style>
 body {background-color: navy;}
 h5 {color: red;}
@@ -7,6 +8,7 @@ backround-color: navy;
 
 
 </style>
+</head>
 <body>
 <h5> LONDON </h5>
 <div id="Content">
