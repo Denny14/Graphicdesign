@@ -2,11 +2,8 @@
 
 <head></head>
 
-<body>
+<body></body>
 
-<script>
-("Hello, Friends and Graphic Designers");
-</script>
 
 <script>
 var name = Denny; 
