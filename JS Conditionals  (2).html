@@ -11,23 +11,7 @@
 </head>
 
 <body>
-    <script>
-        var a;
-        var choice = prompt("Which do you choose? 1, 2, or 3?")
 
-        if (choice = "1") {
-            a = "<img src="
-            bulbasaur.png ">";
-        } else if (choice = "2") {
-            a = "<img src="
-            squirtle.png ">";
-        } else if (choice = "3") {
-            a = "<img src="
-            charmander.png ">";
-        }
-
-        document.getElementById("out").innerHTML = a;
-    </script>
     <h1> CHOOSE YOUR STARTER </h1>
     <div>
         1)<img src="bulbasaur.png"> 2)
@@ -36,6 +20,23 @@
     </div>
     <br />
     <H3 id="out"></H3>
+
+    <script>
+        var a;
+        var choice = prompt("Which do you choose? 1, 2, or 3?")
+
+        if (choice =="1") {
+            a = "<img src='bulbasaur.png '>";
+        } else if (choice == "2") {
+            a = "<img src='squirtle.png '>";
+        } else if (choice == "3") {
+            a = "<img src='charmander.png '>";
+        }
+
+        document.getElementById("out").innerHTML = a;
+    </script>
+
+
 </body>
 
 </html>
