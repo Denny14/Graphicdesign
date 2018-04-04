@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>
+		CSIT Project
+	</title>
+	<link rel="stylesheet" href="file.css">
+	<style>
+	body {
+		font-family: Arial, Helvetica, sans-serif;
+		}
+	input[type=text], select, textarea {
+		width: 50%;
+		padding: 12px;
+		border: 1px solid #ccc;
+		border-radius: 4px;
+		box-sizing: border-box;
+		margin-top: 16px;
+		margin-bottom: 16px;
+		resize: vertical;
+		}
+	input[type=submit] {
+		background-color: rgb(141,32,118);
+		color: white;
+		padding: 12px 20px;
+		border: none;
+		border-radius: 4px;
+		cursor: pointer;
+		}
+	input[type=submit]:hover {
+		background-color: rgb(240,183,192);
+		}
+	</style>
+</head>
+<body>
+	<img src="1.jpg" hspace="150"  height="300" width="742"><br>
+<ul>
+	<li><a href="home.html">HOME</a></li>
+	<li><a href="about.html">ABOUT ME</a></li>
+	<li><a href="country.html">COUNTRY</a></li>
+	<li><a href="contact.html">CONTACT</a></li>
+</ul><br><br>
+<hr>
+<h3>
+	Contact Me
+</h3>
+<hr>
+<div class="container">
+  <form action="/action_page.php">
+    <label for="fname">First Name</label><br>
+    <input type="text" id="fname" name="firstname" placeholder="Your name.."><br>
+    <label for="lname">Last Name</label><br>
+    <input type="text" id="lname" name="lastname" placeholder="Your last name.."><br>
+    <label for="country">Country</label><br>
+    <select id="country" name="country">
+      <option value="australia">Australia</option>
+	  <option value="albania">Albania</option>
+	  <option value="bulgaria">Bulgaria</option>
+      <option value="canada">Canada</option>
+	  <option value="france">France</option>
+	  <option value="canada">Korea</option>
+	  <option value="uk">UK</option>
+      <option value="usa">USA</option>	  
+    </select><br>
+    <label for="subject">Subject</label><br>
+    <textarea id="subject" name="subject" placeholder="Write something.." style="height:200px">
+	</textarea>
+	<br>
+    <input type="submit" value="Submit">
+  </form>
+</div>
+</body>
+</html>
