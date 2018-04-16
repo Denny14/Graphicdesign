@@ -1,0 +1,46 @@
+.gallery img {
+    display: block;
+    padding: 5px;
+    background-color: white;
+    border: 1px solid #D2B48C;
+   
+    }
+  
+	
+
+.gallery {
+    width: 1075px;
+    margin: auto;}
+    .gallery ul {
+    list-style: none;}
+    .gallery li {
+    float: left;
+    margin: 10px;
+
+
+    }
+body {
+	background-color: #000080;
+	color: white;
+	
+	}
+
+
+
+p  {
+
+font-family: 'Oxygen';font-size: 20px;
+
+   
+
+   }
+   
+.art-post {
+    background: #F8F2DD;
+    border-radius: 15px;
+    padding: 5px;
+    margin: 7px;
+	color: black;
+}
+
+
